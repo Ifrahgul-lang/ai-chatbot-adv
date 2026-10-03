@@ -2,9 +2,7 @@
 
 A production-style AI chatbot. The user sends a message, the app calls an LLM through the Groq API, and the answer is shown as Markdown in a chat UI. The bot has a defined role and personality ("Study Buddy", a friendly AI tutor).
 
-**Demo:** _add your Streamlit Cloud URL here_  
-![Screenshot](screenshot.png)
-<!-- Add screenshot.png to the repo root, or replace with a demo video link. -->
+<img width="1357" height="587" alt="image" src="https://github.com/user-attachments/assets/2d76eed4-e896-4052-b47a-e71a2367935f" />
 
 ## Features
 | Day | Feature |
